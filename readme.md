@@ -6,7 +6,7 @@ nunca viene mal un repaso siempre, porque creo que en la repetición, está el g
 
 Y aunque al final te certifican, lo que quiero personalmente, es repetir los temas que aprendí inicialmente para convertirme en frontend developer porque quiero saber que tanto me acuerdo de ellos ahora que ya tengo cierta experiencia y porque además, a medida que voy adquiriendo nuevos skills, siempre retornan, por lo que veo necesario, tener siempre, todo lo que aprendo de manera organizada y recurrir a ellos para actualizarlos y sobretodo compartirlo.
 
-A continuación detallo los skills que re-preacticaré a través de esta plataforma
+A continuación detallo los skills que re-pasaré a través de esta plataforma
 
 | Habilidad Técnica                        |           1<br>Subtemas            |                2<br>Status                 |
 | :--------------------------------------- | :--------------------------------: | :----------------------------------------: |
