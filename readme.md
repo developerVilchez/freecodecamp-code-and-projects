@@ -11,7 +11,7 @@ A continuación detallo los skills que re-pasaré a través de esta plataforma
 | Habilidad Técnica                        |           1<br>Subtemas            |                2<br>Status                 |
 | :--------------------------------------- | :--------------------------------: | :----------------------------------------: |
 | **Responsive Web Design Certificaction** |       `Basic HTML and html5`       |     ![listo](notes/imgs/complete.png)      |
-|                                          |            `Basic CSS`             | ![en progreso](notes/imgs/in_progress.png) |
+|                                          |            `Basic CSS`             | ![listo](notes/imgs/complete.png) |
 |                                          |      `Applied Visual Design`       |    ![todavía](notes/imgs/no_start.png)     |
 |                                          |      `Applied Accessibility`       |    ![todavía](notes/imgs/no_start.png)     |
 |                                          | `Responsive Web Design Principles` |    ![todavía](notes/imgs/no_start.png)     |
